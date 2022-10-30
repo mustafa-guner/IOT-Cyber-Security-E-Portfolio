@@ -12,3 +12,32 @@ Week one was all about <b>Digitalization and Energy Crisis in 2022</b>. We have 
 - What are the cyber security challenges for bricks and mortar SMEs wanting to become digital enterprises?
 
 I read the article and found external references for answering those questions properly. You can find the reference links down below the word document.
+
+<h3>Week 2</h3>
+Week two was all about <b>Scanning Activity</b> which means we used some CMD commands to check following tasks:
+  
+- <b>How many hops do we have from our machine to target website?</b>
+   <code>tracert [target website link]</code>
+
+- <b>Which step causes the biggest delay in the route?</b>
+  <code>tracert [target website link]</code>
+
+- <b>What is the average duration of that delay?</b>
+  <code>ping [target website link]</code>
+
+- <b>Checking main nameservers for the target website</b>
+  <code>nslookup [target website link]</code>
+
+- <b>Details of the MX Record for the target website</b>
+
+  1. <code>[target website link]</code>
+  2. <code>[target website link]</code>
+  3. <code>[target website link]</code>
+
+- <b>Who is the registered contract? </b>
+  <code>whois [target website address]</code>
+
+- <b>Find out where the target website is hosted.</b>
+  <code>tracert [target website link]</code>
+
+Also, i have a reflection section at end of the word document to express my observations and feelings about the task. I faced an issue while I was trying to check the MX record for the target website. I was not able to check MX records via the command line. Since I have been using ubuntu for almost 1 year I decided to use ubuntu for this task. I found useful documentation on <a href="https://www.cloudflare.com/learning/dns/dns-records/dns-mx-record/">cloudflare.com</a> and I executed the following code. First, I entered <code>nslookup</code> command then set a filter to only collect MX records and related information (<code>q=MX</code>) and add the target website and it worked. I was able to check MX records and SMTP email address of the target website.
