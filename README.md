@@ -4,6 +4,8 @@
 
 **🎯Motivation**: The aim of the project is, to create E-Portfolio for the lab work we prepare week by week. Each week has its own articles and report. You can review all articles and exercises week by week. Some of them may include external links for blog posts. You can check and get more information.
 
+<h2>Week 1-2</h2>
+
 <h3>Week 1</h3>
 Week one was all about <b>Digitalization and Energy Crisis in 2022</b>. We have an article written by 3 authors about the security implications of the digital economy. Week 1 basically all about finding answers to the following questions:
 
