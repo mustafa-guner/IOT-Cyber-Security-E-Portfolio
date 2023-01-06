@@ -46,3 +46,23 @@ Week two was all about <b>Scanning Activity</b> which means we used some CMD com
   I found useful documentation on <a href="https://www.cloudflare.com/learning/dns/dns-records/dns-mx-record/">cloudflare.com</a> and I executed the following code.
   First, I entered <code>nslookup</code> command then set a filter to only collect MX records and related information (<code>q=MX</code>) and added the target website.
   At the end I was able to check MX records and SMTP email address of the target website.<p>
+<p>At the end of the week 2 we have also some end of unit activitiy questions.The questions and summariezed answers are the followings.</p>
+<ul>
+<li>
+<h3>Activity 1</h3>
+<p><strong>Question:</strong> Cloud platforms are becoming a very common commodity in the digital system. What are the benefits and draw backs in Cloud solutions with respect to cyber security? Present an argument with minimum 500 words in favour of or against cloud storage. What are the security risks involved in cloud vs local store . You should post your solution in the discussion group and provide at least two references</p>
+<p><strong>Answer:</strong> Cloud storage solutions offer scalability, cost-effectiveness, automatic updates, and data backup and recovery, but also have drawbacks such as dependence on internet connection, security concerns, limited control, limited customization, vendor lock-in, and security risks. Local storage has the risk of physical damage or theft and is vulnerable to natural disasters, but also offers more control. Businesses must weigh the benefits and drawbacks and consider their specific needs when deciding between cloud and local storage for cyber security.</p>
+</li>
+
+<li>
+<h3>Activity 2</h3>
+<p><strong>Question:</strong> In 2017 a ransomware termed as WannaCry unleased its malicious attack on a global scale. What cautions and safeguards should have been in place that could have averted this attack?</p>
+<p><strong>Answer:</strong> The WannaCry ransomware attack in 2017 exploited a vulnerability in older versions of Windows and encrypted users' data. To prevent similar attacks, it is important to keep software and operating systems up to date, use antivirus software, implement a firewall, use strong passwords, regularly back up data, educate employees about cyber security, and use multi-factor authentication.</p>
+</li>
+
+<li>
+<h3>Activity 3</h3>
+<p><strong>Question:</strong>Why is it important to have a backup system in place that works closely with cyber security framework? How are these two components are related? Please use your own personal computer as hypothetical machine and list the steps that you will adopt to backup your data.</p>
+<p><strong>Answer:</strong> Having a backup system in place is important for protecting against data loss due to cyber attacks, hardware failures, or other disasters. To create a backup system for a personal computer, identify the data that needs to be backed up, choose a backup method, set up a schedule for backups, test the system to ensure it is working properly, and store the backup in a secure location. This will create a backup system that works closely with the cyber security framework to protect against data loss.</p>
+</li>
+</ul>
