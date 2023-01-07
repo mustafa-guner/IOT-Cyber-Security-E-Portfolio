@@ -385,6 +385,13 @@ Week two was all about <b>Scanning Activity</b> which means we used some CMD com
   </li>
 </ol>
 
+<p><strong>My Summarized reflection about Solar Winds hack from the <a href="https://www.npr.org/2021/04/16/985439655/a-worst-nightmare-cyberattack-the-untold-story-of-the-solarwinds-hack" target="_blank">blog post:</a></strong> The SolarWinds hack was a worst nightmare for many organizations, as it allowed cybercriminals to gain access to sensitive information on a massive scale. The hack, which was discovered in December 2020, affected hundreds of government agencies and private businesses around the world.
+One of the most alarming aspects of the SolarWinds hack was the level of sophistication involved. The hackers used a sophisticated supply chain attack to insert malicious code into software updates that were distributed to SolarWinds customers. This allowed them to gain access to the networks of the organizations that installed the updates, giving them the ability to steal sensitive data and potentially even disrupt operations.
+The fact that the hack went undetected for so long was also a major concern. It is believed that the hackers had been active for months before the breach was discovered, giving them ample time to steal data and plant malware on the affected systems.
+The SolarWinds hack serves as a reminder of the importance of cybersecurity in today's digital age. It is crucial for organizations to take steps to protect their systems and data, including implementing strong passwords, regularly updating software and systems, and training employees on how to recognize and report potential threats.
+Overall, the SolarWinds hack was a worst nightmare for those affected by it, highlighting the need for increased vigilance and proactive measures to protect against cyberattacks.
+</p>
+
 <h2>Week 4-5</h2>
 <p>This week, we are asked to create brief reflection report based on the usage and installation of Kali Linux to show what we have learnt,
 problems we faced and solutions we provide (challanges).
