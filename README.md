@@ -42,8 +42,9 @@ Week two was all about <b>Scanning Activity</b> which means we used some CMD com
 - <b>Find out where the target website is hosted.</b>
   <code>nslookup [target website link]</code>
 
-<p>Also, i have a reflection section at end of the word document to express my observations and feelings about the task.</p>
-<p>I faced an issue while I was trying to check the MX record for the target website. I was not able to check MX records via the command line. 
+<p><strong>My Reflection:</strong> This exercise was quite informative and enjoyable for me. I love to work with CMD commands as a programmer. It is lifesaver most of the time. Our exercise’s aim for checking network details in general. In first question we checked our hops path from ISP to target website and observed the biggest delay in the route. In rest of the questions we used nslook up commands to check server names , addresses and MX records for our target website. </p>
+
+<p><strong>Challange i faced & solution i found:</strong> I faced an issue while I was trying to check the MX record for the target website. I was not able to check MX records via the command line. 
   Since I have been using ubuntu for almost 1 year I decided to use ubuntu for this task instead of LINUX. 
   I found useful documentation on <a href="https://www.cloudflare.com/learning/dns/dns-records/dns-mx-record/">cloudflare.com</a> and I executed the following code.
   First, I entered <code>nslookup</code> command then set a filter to only collect MX records and related information (<code>q=MX</code>) and added the target website.
@@ -383,3 +384,40 @@ Week two was all about <b>Scanning Activity</b> which means we used some CMD com
     </ul>
   </li>
 </ol>
+
+<h2>Week 4-5</h2>
+<p>This week, we are asked to create brief reflection report based on the usage and installation of Kali Linux to show what we have learnt,
+problems we faced and solutions we provide (challanges).
+Also our instructor provided us two links to read related to the Kali Linux. You can see links in the associated word document.
+</p>
+
+<p><strong>Summary:</strong> Linux is a free and open-source operating system that was first released in 1991 by Linus Torvalds. It is based on the Unix operating system and is often used as an alternative to proprietary operating systems such as Microsoft Windows or MacOS. One of the key benefits of Linux is that it is highly customizable and can be tailored to meet the specific needs of an individual or organization. It is also known for being stable, secure, and efficient.</p>
+<span>
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200710232545/Top-10-Kali-Linux-Tools-For-Hacking.png" width="500" height="300">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20200619142042/nmap21.png" width="500" height="300">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20200619142236/burp_suite.png" width="500" height="300">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20200324025329/Capture421.png" width="500" height="300">
+</span>
+<p> Linux is used in a wide range of applications, including personal computers, servers, mobile devices, and embedded systems. It is also a popular choice for programming and development due to the availability of a wide range of tools and resources.
+Overall, Linux is a powerful and versatile operating system that has gained widespread adoption in the technology industry. It has a strong community of users and developers who contribute to its ongoing development and improvement.
+</p>
+<p><strong>Why Kali?</strong></p>
+<ol>
+  <li>Includes more than 600 Penetration Testing Tools</li>
+  <li>Free to use (if your time has no value)</li>
+  <li>Operates on Open-Source Development Model</li>
+  <li>Gives freedom to customize completely</li>
+  <li>Developed in a secure environment</li>
+  <li>Custom kernel, patched for injection</li>
+  <li>ARMEL and ARMHF support</li>
+  <li>Diverse and vibrant community</li>
+</ol>
+
+<p><strong>My Reflection:</strong>
+Kali Linux is a popular open-source operating system that is widely used for penetration testing and security assessments. It is a distribution of Linux that is specifically designed for these tasks and includes a wide range of tools and resources for identifying and addressing vulnerabilities in computer systems and networks.
+Whether or not Kali Linux is the right operating system for a particular individual or organization will depend on their specific needs and goals. It is important to carefully evaluate the benefits and limitations of any operating system before deciding to use it.
+</p>
+<p><strong>Challange i faced & solution i found:</strong>
+As far as I searched, after installation is successful, GRUB is installed to MBR, but when I rebooted the system there was no grub splash screen; just a text based booting menu. After Kali booted up, there was no GUI; but only a text-based login option.
+By spending some time googling it, I found that there is bug in 2020.1 installer ISO and about 140+ packages are missing in offline installer. Also, there are a few packages that are missing in APT package manager. To install Kali Linux with default options (XFCE DE), the installer needs an Internet connection to download missing packages from Kali repository. If you try to install Kali Linux offline, you will end up with text mode installation.
+</p>
