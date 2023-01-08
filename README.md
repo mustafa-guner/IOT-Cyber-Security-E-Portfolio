@@ -468,3 +468,13 @@ Once the attacker has positioned themselves in the middle of the communication, 
 To protect against MITM attacks, it is important for organizations to use secure communication protocols, such as SSL/TLS, and to use strong authentication methods to verify the identity of parties involved in a communication. It is also important to regularly update and patch systems and to educate employees on how to recognize and avoid phishing attacks.
 </p>
 <img src="https://www.veracode.com/sites/default/files/2021-07/veracode-appsec_man-middle-attack.png" >
+
+<h2>Week 8-9</h2>
+<p>This week we started to study on IOT topic. As a class topic we had to fill a table about infsastructures of greenhouses in the context of IOT. You can check the table under the Week 8-9 folder by downloading the document.</p>
+<p><strong>My Reflection on IOT - Greenhouse Infrastructure: </strong>
+A typical Internet of Things (IoT) infrastructure for a greenhouse might include sensors to monitor temperature, humidity, light intensity, soil moisture, and other relevant environmental variables. These sensors would be connected to a local gateway, which would transmit the sensor data to a cloud-based server for storage and analysis.
+The server would run software that processes and analyzes the sensor data to provide insights and trigger alerts, or automated responses as needed. For example, the software might send a notification to a farmer if the temperature in the greenhouse exceeds a certain threshold, or it might automatically adjust the irrigation system to provide more water to a particular section of the greenhouse based on soil moisture levels.
+The farmer might also be able to access the sensor data and control the various systems in the greenhouse using a mobile app or web-based dashboard. This would allow them to remotely monitor and manage the greenhouse environment from anywhere with an internet connection.
+It's also worth considering incorporating security measures into the IoT infrastructure to protect against unauthorized access or tampering. This might include things like secure communication protocols, authentication, and data encryption.
+</p>
+<img src="https://www.aimspress.com/aimspress-data/electreng/2021/4/PIC/electreng-05-04-014-g001.jpg" >
