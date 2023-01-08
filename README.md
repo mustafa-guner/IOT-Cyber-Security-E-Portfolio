@@ -399,12 +399,7 @@ Also our instructor provided us two links to read related to the Kali Linux. You
 </p>
 
 <p><strong>Summary:</strong> Linux is a free and open-source operating system that was first released in 1991 by Linus Torvalds. It is based on the Unix operating system and is often used as an alternative to proprietary operating systems such as Microsoft Windows or MacOS. One of the key benefits of Linux is that it is highly customizable and can be tailored to meet the specific needs of an individual or organization. It is also known for being stable, secure, and efficient.</p>
-<span>
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200710232545/Top-10-Kali-Linux-Tools-For-Hacking.png" width="500" height="300">
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20200619142042/nmap21.png" width="500" height="300">
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20200619142236/burp_suite.png" width="500" height="300">
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20200324025329/Capture421.png" width="500" height="300">
-</span>
 <p> Linux is used in a wide range of applications, including personal computers, servers, mobile devices, and embedded systems. It is also a popular choice for programming and development due to the availability of a wide range of tools and resources.
 Overall, Linux is a powerful and versatile operating system that has gained widespread adoption in the technology industry. It has a strong community of users and developers who contribute to its ongoing development and improvement.
 </p>
@@ -428,3 +423,34 @@ Whether or not Kali Linux is the right operating system for a particular individ
 As far as I searched, after installation is successful, GRUB is installed to MBR, but when I rebooted the system there was no grub splash screen; just a text based booting menu. After Kali booted up, there was no GUI; but only a text-based login option.
 By spending some time googling it, I found that there is bug in 2020.1 installer ISO and about 140+ packages are missing in offline installer. Also, there are a few packages that are missing in APT package manager. To install Kali Linux with default options (XFCE DE), the installer needs an Internet connection to download missing packages from Kali repository. If you try to install Kali Linux offline, you will end up with text mode installation.
 </p>
+
+<h2>Week 5-6</h2>
+<p><strong>What is Honepot Attack ?</strong></p>
+<p>Honey pot is a computer system that is set up to trap cyber attackers who try to gain unauthorized access to information systems.<strong>Here are the simulated each step of attack.</strong></p>
+<ol>
+  <li>A hacker begins by scanning the internet for vulnerable systems to target.</li>
+  <li>The hacker comes across a network that appears to have multiple servers and many open ports, indicating that it may be a valuable target.</li>
+  <li>Upon further investigation, the hacker discovers that the network is a honeypot - a trap set up by cybersecurity professionals to attract and monitor potential attackers.</li>
+  <li>The hacker attempts to gain access to the honeypot by entering various login credentials and attempting to exploit known vulnerabilities.</li>
+  <li>As the hacker continues to try and gain access to the honeypot, they are being monitored by cybersecurity professionals. The professionals can track the hacker's IP address, the methods they are using to try and gain access, and any other information that may be useful in identifying and prosecuting the attacker.</li>
+  <li>Eventually, the hacker realizes that they have been caught in a honeypot and ceases their attempts to gain access.</li>
+  <li>The cybersecurity professionals use the information gathered from the honeypot to identify and track down the hacker, potentially leading to their arrest and prosecution.</li>
+</ol>
+
+<p><strong>My Reflection on Honeypot:</strong>
+Honeypots are security resources that are specifically designed to attract and trap cybercriminals. These resources can be used to monitor and track the actions of attackers, gather intelligence on their tactics and techniques, and potentially divert them away from more valuable assets within an organization's network.
+One of the main benefits of using honeypots is that they can help organizations to better understand the threats that they face. By studying the behavior of attackers who are interacting with a honeypot, security teams can learn more about the tactics, techniques, and procedures that are being used by attackers and use this information to improve their defenses.
+However, there are also some potential drawbacks to using honeypots. One of the main concerns is that they can be resource-intensive to set up and maintain. Additionally, honeypots can potentially attract a lot of unwanted attention from attackers, which can put additional strain on an organization's security team.
+Overall, honeypot attacks can be a useful tool in an organization's security arsenal, but they should be used carefully and with a clear understanding of the potential risks and benefits.
+</p>
+
+<p><strong>What is Dos Attack?</strong></p>
+<p>A Denial of Service (DoS) attack is a type of cyber-attack in which a perpetrator seeks to make a particular computer or network resource unavailable to its intended users by overwhelming it with traffic or requests for data. This can be done in a variety of ways, such as sending a flood of messages to a server or website, or by exploiting vulnerabilities in a network to cause it to crash or become otherwise unavailable.</p>
+<p><strong>My Reflection on DOS/DDOS:</strong>
+DDOS attacks can have a significant impact on individuals, as well as on organizations. If you are a victim of a DDOS attack, you may find that you are unable to access certain websites or online services, which can be frustrating and inconvenient. In some cases, you may also be at risk of losing access to important personal data or sensitive information.
+It is important for individuals to be aware of the risks associated with DDOS attacks and to take steps to protect themselves. This can include using strong and unique passwords, avoiding clicking on links or downloading attachments from unknown sources, and keeping your devices and software up to date with the latest security patches.
+Additionally, it is a good idea to be cautious when accessing sensitive or personal information online, and to use trusted websites and services whenever possible. By taking these precautions, you can help to reduce your risk of being caught up in a DDOS attack or other cyber security incident.
+</p>
+
+<p><strong>Implementing Port Security</strong></p>
+<p>Port security is a method of protecting network devices from unauthorized access or activity. It involves the use of various measures to prevent unauthorized devices from connecting to a network through physical port connections, such as Ethernet ports or USB ports.</p>
