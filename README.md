@@ -4,7 +4,7 @@
 
 **🎯Motivation**: The aim of the project is, to create E-Portfolio for the lab work we prepare week by week. Each week has its own articles and report. You can review all articles and exercises week by week. Some of them may include external links for blog posts. You can check and get more information.
 
-<h2>Week 1-2</h2>
+<h2><a href="https://github.com/slex1one-Musdy/IOT-Cyber-Security-E-Portfolio/tree/main/Week%201-2">Week 1-2</a></h2>
 
 <h3>Week 1</h3>
 Week one was all about <b>Digitalization and Energy Crisis in 2022</b>. We have an article written by 3 authors about the security implications of the digital economy. Week 1 basically all about finding answers to the following questions:
@@ -70,7 +70,7 @@ Week two was all about <b>Scanning Activity</b> which means we used some CMD com
 </li>
 </ul>
 
-<h2>Week 3-4</h2>
+<h2><a href="https://github.com/slex1one-Musdy/IOT-Cyber-Security-E-Portfolio/tree/main/Week%203-4">Week 3-4</a></h2>
 <p>On week 3 and 4 we discussed Cyber Kill Chain. Understanding the Cyber Kill Chain can help organizations to develop defenses at each stage of an attack and to implement effective cybersecurity measures to reduce the risk of a successful attack.
 </p>  
 <p>Understanding the Cyber Kill Chain can help organizations to develop defenses at each stage of an attack and to implement effective cybersecurity measures to reduce the risk of a successful attack.</p>
@@ -392,7 +392,7 @@ The SolarWinds hack serves as a reminder of the importance of cybersecurity in t
 Overall, the SolarWinds hack was a worst nightmare for those affected by it, highlighting the need for increased vigilance and proactive measures to protect against cyberattacks.
 </p>
 
-<h2>Week 4-5</h2>
+<h2><a href="https://github.com/slex1one-Musdy/IOT-Cyber-Security-E-Portfolio/tree/main/Week%204-5">Week 4-5</a></h2>
 <p>This week, we are asked to create brief reflection report based on the usage and installation of Kali Linux to show what we have learnt,
 problems we faced and solutions we provide (challanges).
 Also our instructor provided us two links to read related to the Kali Linux. You can see links in the associated word document.
@@ -424,7 +424,7 @@ As far as I searched, after installation is successful, GRUB is installed to MBR
 By spending some time googling it, I found that there is bug in 2020.1 installer ISO and about 140+ packages are missing in offline installer. Also, there are a few packages that are missing in APT package manager. To install Kali Linux with default options (XFCE DE), the installer needs an Internet connection to download missing packages from Kali repository. If you try to install Kali Linux offline, you will end up with text mode installation.
 </p>
 
-<h2>Week 5-6</h2>
+<h2><a href="https://github.com/slex1one-Musdy/IOT-Cyber-Security-E-Portfolio/tree/main/Week%205-6">Week 5-6</a></h2>
 <p><strong>What is Honepot Attack ?</strong></p>
 <p>Honey pot is a computer system that is set up to trap cyber attackers who try to gain unauthorized access to information systems.<strong>Here are the simulated each step of attack.</strong></p>
 <ol>
@@ -455,7 +455,7 @@ Additionally, it is a good idea to be cautious when accessing sensitive or perso
 <p><strong>Implementing Port Security</strong></p>
 <p>Port security is a method of protecting network devices from unauthorized access or activity. It involves the use of various measures to prevent unauthorized devices from connecting to a network through physical port connections, such as Ethernet ports or USB ports.</p>
 
-<h2>Week 6-7</h2>
+<h2><a href="https://github.com/slex1one-Musdy/IOT-Cyber-Security-E-Portfolio/tree/main/Week%206-7">Week 6-7</a></h2>
 <p>This week we are asked to review the Man In the Middle Attack by watching videos. We have to write our reflection based on the video and discuss the operation of the attack in the context of enterprise networks.</p>
 <p><strong>My Reflection on Man In The Middle Attack:</strong>
 <a href="https://www.youtube.com/watch?v=p4pLVN_hVsU&ab_channel=ProfessorMesser">In the first video</a>,it shows the details and basically steps of the attack and implements it using a third-party application. A man-in-the-middle (MITM) attack is a type of cyber-attack where an attacker intercepts communication between two parties and can manipulate or view the data being transmitted.
@@ -469,7 +469,7 @@ To protect against MITM attacks, it is important for organizations to use secure
 </p>
 <img src="https://www.veracode.com/sites/default/files/2021-07/veracode-appsec_man-middle-attack.png" >
 
-<h2>Week 8-9</h2>
+<h2><a href="/https://github.com/slex1one-Musdy/IOT-Cyber-Security-E-Portfolio/tree/main/Week%208-9">Week 8-9</a></h2>
 <p>This week we started to study on IOT topic. As a class topic we had to fill a table about infsastructures of greenhouses in the context of IOT. You can check the table under the Week 8-9 folder by downloading the document.</p>
 <p><strong>My Reflection on IOT - Greenhouse Infrastructure: </strong>
 A typical Internet of Things (IoT) infrastructure for a greenhouse might include sensors to monitor temperature, humidity, light intensity, soil moisture, and other relevant environmental variables. These sensors would be connected to a local gateway, which would transmit the sensor data to a cloud-based server for storage and analysis.
@@ -479,7 +479,7 @@ It's also worth considering incorporating security measures into the IoT infrast
 </p>
 <img src="https://www.aimspress.com/aimspress-data/electreng/2021/4/PIC/electreng-05-04-014-g001.jpg" >
 
-<h2>Week 10-11</h2>
+<h2><a href="/https://github.com/slex1one-Musdy/IOT-Cyber-Security-E-Portfolio/tree/main/Week%2010-11">Week 10-11</a></h2>
 <p>
 In the last week of December 2022, we had a seminar about IoT by <a href="https://www.instagram.com/cyprus.iot/">Babak Reihani</a> who has been professional in this field for so long. His company provides smart home solutions. He brought some products to the seminar to show us how they work and what they do. At the end of the presentation, we are asked to create a brief report about the seminar. This report simply includes the important points of the seminar we attended. 
 </p>
