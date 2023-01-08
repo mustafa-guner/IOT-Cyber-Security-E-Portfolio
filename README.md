@@ -469,7 +469,7 @@ To protect against MITM attacks, it is important for organizations to use secure
 </p>
 <img src="https://www.veracode.com/sites/default/files/2021-07/veracode-appsec_man-middle-attack.png" >
 
-<h2><a href="/https://github.com/slex1one-Musdy/IOT-Cyber-Security-E-Portfolio/tree/main/Week8-9">Week 8-9</a></h2>
+<h2><a href="https://github.com/slex1one-Musdy/IOT-Cyber-Security-E-Portfolio/tree/main/Week8-9">Week 8-9</a></h2>
 <p>This week we started to study on IOT topic. As a class topic we had to fill a table about infsastructures of greenhouses in the context of IOT. You can check the table under the Week 8-9 folder by downloading the document.</p>
 <p><strong>My Reflection on IOT - Greenhouse Infrastructure: </strong>
 A typical Internet of Things (IoT) infrastructure for a greenhouse might include sensors to monitor temperature, humidity, light intensity, soil moisture, and other relevant environmental variables. These sensors would be connected to a local gateway, which would transmit the sensor data to a cloud-based server for storage and analysis.
@@ -479,7 +479,7 @@ It's also worth considering incorporating security measures into the IoT infrast
 </p>
 <img src="https://www.aimspress.com/aimspress-data/electreng/2021/4/PIC/electreng-05-04-014-g001.jpg" >
 
-<h2><a href="/https://github.com/slex1one-Musdy/IOT-Cyber-Security-E-Portfolio/tree/main/Week10-11">Week 10-11</a></h2>
+<h2><a href="https://github.com/slex1one-Musdy/IOT-Cyber-Security-E-Portfolio/tree/main/Week10-11">Week 10-11</a></h2>
 <p>
 In the last week of December 2022, we had a seminar about IoT by <a href="https://www.instagram.com/cyprus.iot/">Babak Reihani</a> who has been professional in this field for so long. His company provides smart home solutions. He brought some products to the seminar to show us how they work and what they do. At the end of the presentation, we are asked to create a brief report about the seminar. This report simply includes the important points of the seminar we attended. 
 </p>
