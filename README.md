@@ -457,9 +457,9 @@ Additionally, it is a good idea to be cautious when accessing sensitive or perso
 
 <h2>Week 6-7</h2>
 <p><strong>My Reflection on Man In The Middle Attack:</strong>
-In the first video it shows the details and basically steps of the attack and implements it using a third-party application. A man-in-the-middle (MITM) attack is a type of cyber-attack where an attacker intercepts communication between two parties and can manipulate or view the data being transmitted.
+<a href="https://www.youtube.com/watch?v=p4pLVN_hVsU&ab_channel=ProfessorMesser">In the first video</a>,it shows the details and basically steps of the attack and implements it using a third-party application. A man-in-the-middle (MITM) attack is a type of cyber-attack where an attacker intercepts communication between two parties and can manipulate or view the data being transmitted.
 It is important to note that MITM attacks can be difficult to detect, as communication between the two parties may appear normal and no errors may be reported. Therefore, it is important to take steps to protect against these types of attacks, such as using encryption and secure protocols. 
-In the second video, the scenario was simpler and more usual than the first one. It gave real world examples such as a hacker who brings his laptop to café and creates a bait Wi-Fi to let other customers connect to internet via himself. When customers hit their credentials on any website using hacker’s Wi-Fi, 
-hackers can see their credentials because of Network sniffing tool.  
 </p>
+<p><a href="https://www.youtube.com/watch?v=DgqID9k83oQ&ab_channel=Hacksplaining">In the second video</a>,the scenario was simpler and more usual than the first one. It gave real world examples such as a hacker who brings his laptop to café and creates a bait Wi-Fi to let other customers connect to internet via himself. When customers hit their credentials on any website using hacker’s Wi-Fi, 
+hackers can see their credentials because of Network sniffing tool.</p>
 <img src="https://www.veracode.com/sites/default/files/2021-07/veracode-appsec_man-middle-attack.png" >
