@@ -478,3 +478,9 @@ The farmer might also be able to access the sensor data and control the various 
 It's also worth considering incorporating security measures into the IoT infrastructure to protect against unauthorized access or tampering. This might include things like secure communication protocols, authentication, and data encryption.
 </p>
 <img src="https://www.aimspress.com/aimspress-data/electreng/2021/4/PIC/electreng-05-04-014-g001.jpg" >
+
+<h2>Week 10-11</h2>
+<p>
+In the last week of December 2022, we had a seminar about IoT by <a href="https://www.instagram.com/cyprus.iot/">Babak Reihani</a> who has been professional in this field for so long. His company provides smart home solutions. He brought some products to the seminar to show us how they work and what they do. At the end of the presentation, we are asked to create a brief report about the seminar. This report simply includes the important points of the seminar we attended. 
+</p>
+<img src="https://enterprisersproject.com/sites/default/files/styles/google_discover/public/images/CIO_IoT_1.png?itok=rU2xFvvd" >
