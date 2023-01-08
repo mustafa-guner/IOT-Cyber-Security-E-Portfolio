@@ -456,10 +456,15 @@ Additionally, it is a good idea to be cautious when accessing sensitive or perso
 <p>Port security is a method of protecting network devices from unauthorized access or activity. It involves the use of various measures to prevent unauthorized devices from connecting to a network through physical port connections, such as Ethernet ports or USB ports.</p>
 
 <h2>Week 6-7</h2>
+<p>This week we are asked to review the Man In the Middle Attack by watching videos. We have to write our reflection based on the video and discuss the operation of the attack in the context of enterprise networks.</p>
 <p><strong>My Reflection on Man In The Middle Attack:</strong>
 <a href="https://www.youtube.com/watch?v=p4pLVN_hVsU&ab_channel=ProfessorMesser">In the first video</a>,it shows the details and basically steps of the attack and implements it using a third-party application. A man-in-the-middle (MITM) attack is a type of cyber-attack where an attacker intercepts communication between two parties and can manipulate or view the data being transmitted.
 It is important to note that MITM attacks can be difficult to detect, as communication between the two parties may appear normal and no errors may be reported. Therefore, it is important to take steps to protect against these types of attacks, such as using encryption and secure protocols. 
 </p>
 <p><a href="https://www.youtube.com/watch?v=DgqID9k83oQ&ab_channel=Hacksplaining">In the second video</a>,the scenario was simpler and more usual than the first one. It gave real world examples such as a hacker who brings his laptop to café and creates a bait Wi-Fi to let other customers connect to internet via himself. When customers hit their credentials on any website using hacker’s Wi-Fi, 
 hackers can see their credentials because of Network sniffing tool.</p>
+<p>In the context of an enterprise network, an MITM attack could be carried out by an employee who has access to the network, or by an outsider who has gained access to the network through, for example, a phishing attack or by exploiting a vulnerability in the network.
+Once the attacker has positioned themselves in the middle of the communication, they can potentially read, alter, or block the communication as they see fit. For example, an attacker could intercept and alter an email being sent from one employee to another, or they could intercept and read sensitive information being transmitted between systems on the network.
+To protect against MITM attacks, it is important for organizations to use secure communication protocols, such as SSL/TLS, and to use strong authentication methods to verify the identity of parties involved in a communication. It is also important to regularly update and patch systems and to educate employees on how to recognize and avoid phishing attacks.
+</p>
 <img src="https://www.veracode.com/sites/default/files/2021-07/veracode-appsec_man-middle-attack.png" >
